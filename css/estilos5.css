@@ -1,0 +1,112 @@
+* {margin: 0;
+padding: 0; 
+font-family:arial;
+box-sizing: border-box;}
+body { background:no-repeat fixed url(../img/fondo3.jpg); 
+}
+#contenedor { width: 750px; 
+margin: auto;
+padding: 0px 10px 0px 10px;
+background-color: #5B0F0F;}
+
+#Titulo {background-image: url(../img/hh.jpg);
+	padding: 390px 30px 7px 30px;}
+#titulo h1 {color: white;
+font-size:40px ;
+text-align: center;
+padding-top: 30px;}
+
+#menu a{
+	border:solid 1px black;
+	text-decoration: none;
+	color: #A6FFE9;
+	font-family:sans-serif;
+	font-size: 20px;
+	padding: 12px;
+	background-color: #020461;
+	align-items: center;
+	margin: 16px;
+	margin-top: -20px;
+	display: inline-block;
+}
+#menu a:hover{
+	background-color:#240F5B;
+
+
+}
+#menu {
+
+	text-align: center;
+}
+#recaudacion img {float: right;
+width: 45%;
+padding-top: 30px;
+padding-left: 20px;}
+#recaudacion h2 {color: white;
+text-align: center;
+font-size: 25px;}
+#recaudacion p {color: white;
+	text-align: justify;
+	padding-top: 10px;
+	line-height: 25px;
+	font-size: 17px;
+}
+#continuacion img {float: left;
+width:60%;
+margin-top: 30px;
+display: inline-block;
+padding-right: 20px;}
+#continuacion h2 {color: white;
+font-size: 25px;
+margin-top: 10px;
+display: inline-block;
+text-align: center;
+margin-bottom: 10px;
+margin-left: 60px;
+}
+#continuacion p {color: white;
+font-size: 17px;
+text-align: justify;
+line-height: 25px;
+}
+#Frase {
+      margin-top: 1em;
+      border: 3px #AD7600 dashed; 
+      background-color: #9786B6;
+      color: black;
+      padding: 10px;
+      text-align: center;
+      line-height: 20px;
+      font: oblique bold 90% cursive;
+    }
+#frase a{
+      color: #cc6600;}
+#footer {height: 10%;
+width: 100%;
+    font-size: 14px;
+	clear: both;
+	background: #000738 ;
+	margin-top: 50px;
+	margin-right: -20px;
+}
+#copy{
+	width: 80%;
+	vertical-align: middle;
+	padding:15px 70px 10px 5px ;
+}
+#redes{
+	text-align: right;
+	display: inline-block;
+	margin-top: -45px;
+	margin-right: 15px;
+
+}
+#redes a img{width: 5%;
+	margin:  0 2px}
+#copy p{
+	color: white;
+	text-align: left;
+	display: inline-block;
+	text-align: center;
+	margin-right: 40px;
+}
